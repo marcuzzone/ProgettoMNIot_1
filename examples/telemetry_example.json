@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "device_id": "rpi_01",
+  "session_id": "5c545320-e9a3-4a26-9ebf-3c83932b8f68",
+  "sequence": 0,
+  "timestamp": 1793145600,
+  "hostname": "raspberrypi",
+  "wifi_source": "simulated",
+  "environment_source": "simulated",
+  "ssid": "ExampleWiFi",
+  "bssid": null,
+  "ip_addr": null,
+  "freq_mhz": 2412,
+  "channel": 1,
+  "signal_dbm": -61.5,
+  "tx_bitrate_mbps": null,
+  "link_quality": null,
+  "ping_ms": null,
+  "temperature": 22.4,
+  "humidity": 48.2
+}
